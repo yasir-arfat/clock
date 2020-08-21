@@ -1,3 +1,3 @@
 # clock
-Digital clock made in c# change color with  seconds
-exe file for windows os
+ change color with  seconds
+Digital clock made in c# visual studio 13
