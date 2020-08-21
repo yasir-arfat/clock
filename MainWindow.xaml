@@ -1,0 +1,13 @@
+﻿<Window x:Class="cool.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Cool" Height="154" Width="380" ResizeMode="NoResize">
+    <Grid x:Name="grid1" Background="#FFFFDC00" Height="131" VerticalAlignment="Top">
+        <TextBox x:Name="clock" TextWrapping="Wrap" FontSize="48" BorderThickness="0" IsHitTestVisible="False" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Background="#7F293955" RenderTransformOrigin="0.5,0.5" Text="12:34:59" TextOptions.TextFormattingMode="Display" FontFamily="Angsana New" TextDecorations="{x:Null}" Foreground="#FF0098FF" Height="47" HorizontalAlignment="Left" Width="372" TextChanged="clock_TextChanged" VerticalAlignment="Top" TextAlignment="Justify"/>
+        <TextBox x:Name="text1" HorizontalAlignment="Left" Height="28" Margin="252,19,0,0" TextWrapping="Wrap" Text="By: yasir arfat" VerticalAlignment="Top" Width="112" Background="Transparent" Foreground="#FF0098FF" BorderThickness="0" FontSize="18" ClipToBounds="True" SnapsToDevicePixels="True"/>
+        <Rectangle x:Name="redbar" Fill="Red" HorizontalAlignment="Left" Height="8" Margin="5,62,0,0" Stroke="Black" VerticalAlignment="Top" Width="255"/>
+        <Rectangle x:Name="grnbar" Fill="Lime" HorizontalAlignment="Left" Height="8" Margin="5,72,0,0" Stroke="Black" VerticalAlignment="Top" Width="255"/>
+        <Rectangle x:Name="blubar" Fill="Blue" HorizontalAlignment="Left" Height="8" Margin="5,82,0,0" Stroke="Black" VerticalAlignment="Top" Width="255"/>
+
+    </Grid>
+</Window>

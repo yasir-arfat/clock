@@ -1,0 +1,78 @@
+c:\users\arfat\documents\visual studio 2013\Projects\cool\cool\bin\Debug\cool.exe.config
+c:\users\arfat\documents\visual studio 2013\Projects\cool\cool\obj\Debug\cool.csprojResolveAssemblyReference.cache
+c:\users\arfat\documents\visual studio 2013\Projects\cool\cool\obj\Debug\MainWindow.baml
+c:\users\arfat\documents\visual studio 2013\Projects\cool\cool\obj\Debug\MainWindow.g.cs
+c:\users\arfat\documents\visual studio 2013\Projects\cool\cool\obj\Debug\App.g.cs
+c:\users\arfat\documents\visual studio 2013\Projects\cool\cool\obj\Debug\cool_MarkupCompile.cache
+c:\users\arfat\documents\visual studio 2013\Projects\cool\cool\obj\Debug\cool.g.resources
+c:\users\arfat\documents\visual studio 2013\Projects\cool\cool\obj\Debug\cool.Properties.Resources.resources
+c:\users\arfat\documents\visual studio 2013\Projects\cool\cool\obj\Debug\cool.csproj.GenerateResource.Cache
+c:\users\arfat\documents\visual studio 2013\Projects\cool\cool\bin\Debug\cool.exe
+c:\users\arfat\documents\visual studio 2013\Projects\cool\cool\bin\Debug\cool.pdb
+c:\users\arfat\documents\visual studio 2013\Projects\cool\cool\obj\Debug\cool.exe
+c:\users\arfat\documents\visual studio 2013\Projects\cool\cool\obj\Debug\cool.pdb
+D:\Projects\cool\cool\bin\Debug\cool.exe.config
+D:\Projects\cool\cool\obj\Debug\cool.exe
+D:\Projects\cool\cool\obj\Debug\cool.pdb
+D:\Projects\cool\cool\bin\Debug\cool.exe
+D:\Projects\cool\cool\bin\Debug\cool.pdb
+D:\Projects\cool\cool\obj\Debug\cool.csprojResolveAssemblyReference.cache
+D:\Projects\cool\cool\obj\Debug\MainWindow.baml
+D:\Projects\cool\cool\obj\Debug\MainWindow.g.cs
+D:\Projects\cool\cool\obj\Debug\App.g.cs
+D:\Projects\cool\cool\obj\Debug\cool_MarkupCompile.cache
+D:\Projects\cool\cool\obj\Debug\cool.g.resources
+D:\Projects\cool\cool\obj\Debug\cool.Properties.Resources.resources
+D:\Projects\cool\cool\obj\Debug\cool.csproj.GenerateResource.Cache
+C:\Users\a\Documents\Visual Studio 2013\Projects\cool\cool\bin\Debug\cool.exe.config
+C:\Users\a\Documents\Visual Studio 2013\Projects\cool\cool\obj\Debug\cool.exe
+C:\Users\a\Documents\Visual Studio 2013\Projects\cool\cool\obj\Debug\cool.pdb
+C:\Users\a\Documents\Visual Studio 2013\Projects\cool\cool\obj\Debug\MainWindow.baml
+C:\Users\a\Documents\Visual Studio 2013\Projects\cool\cool\obj\Debug\MainWindow.g.cs
+C:\Users\a\Documents\Visual Studio 2013\Projects\cool\cool\obj\Debug\App.g.cs
+C:\Users\a\Documents\Visual Studio 2013\Projects\cool\cool\obj\Debug\cool_MarkupCompile.cache
+C:\Users\a\Documents\Visual Studio 2013\Projects\cool\cool\obj\Debug\cool.g.resources
+C:\Users\a\Documents\Visual Studio 2013\Projects\cool\cool\obj\Debug\cool.Properties.Resources.resources
+C:\Users\a\Documents\Visual Studio 2013\Projects\cool\cool\obj\Debug\cool.csproj.GenerateResource.Cache
+C:\Users\a\Documents\Visual Studio 2013\Projects\cool\cool\bin\Debug\cool.exe
+C:\Users\a\Documents\Visual Studio 2013\Projects\cool\cool\bin\Debug\cool.pdb
+C:\Users\a\Documents\Visual Studio 2013\Projects\cool\cool\obj\Debug\cool.csprojResolveAssemblyReference.cache
+C:\soft\usb\Projects\cool\cool\bin\Debug\cool.exe.config
+C:\soft\usb\Projects\cool\cool\obj\Debug\cool.exe
+C:\soft\usb\Projects\cool\cool\obj\Debug\cool.pdb
+C:\soft\usb\Projects\cool\cool\bin\Debug\cool.exe
+C:\soft\usb\Projects\cool\cool\bin\Debug\cool.pdb
+C:\soft\usb\Projects\cool\cool\obj\Debug\cool.csprojResolveAssemblyReference.cache
+C:\soft\usb\Projects\cool\cool\obj\Debug\MainWindow.baml
+C:\soft\usb\Projects\cool\cool\obj\Debug\MainWindow.g.cs
+C:\soft\usb\Projects\cool\cool\obj\Debug\App.g.cs
+C:\soft\usb\Projects\cool\cool\obj\Debug\cool_MarkupCompile.cache
+C:\soft\usb\Projects\cool\cool\obj\Debug\cool.g.resources
+C:\soft\usb\Projects\cool\cool\obj\Debug\cool.Properties.Resources.resources
+C:\soft\usb\Projects\cool\cool\obj\Debug\cool.csproj.GenerateResource.Cache
+E:\usb\Projects\cool\cool\bin\Debug\cool.exe.config
+E:\usb\Projects\cool\cool\obj\Debug\cool.exe
+E:\usb\Projects\cool\cool\obj\Debug\cool.pdb
+E:\usb\Projects\cool\cool\bin\Debug\cool.exe
+E:\usb\Projects\cool\cool\bin\Debug\cool.pdb
+E:\usb\Projects\cool\cool\obj\Debug\cool.csprojResolveAssemblyReference.cache
+E:\usb\Projects\cool\cool\obj\Debug\MainWindow.baml
+E:\usb\Projects\cool\cool\obj\Debug\MainWindow.g.cs
+E:\usb\Projects\cool\cool\obj\Debug\App.g.cs
+E:\usb\Projects\cool\cool\obj\Debug\cool_MarkupCompile.cache
+E:\usb\Projects\cool\cool\obj\Debug\cool.g.resources
+E:\usb\Projects\cool\cool\obj\Debug\cool.Properties.Resources.resources
+E:\usb\Projects\cool\cool\obj\Debug\cool.csproj.GenerateResource.Cache
+D:\project\Projects\cool\cool\bin\Debug\cool.exe.config
+D:\project\Projects\cool\cool\obj\Debug\cool.exe
+D:\project\Projects\cool\cool\obj\Debug\cool.pdb
+D:\project\Projects\cool\cool\bin\Debug\cool.exe
+D:\project\Projects\cool\cool\bin\Debug\cool.pdb
+D:\project\Projects\cool\cool\obj\Debug\cool.csprojResolveAssemblyReference.cache
+D:\project\Projects\cool\cool\obj\Debug\MainWindow.baml
+D:\project\Projects\cool\cool\obj\Debug\MainWindow.g.cs
+D:\project\Projects\cool\cool\obj\Debug\App.g.cs
+D:\project\Projects\cool\cool\obj\Debug\cool_MarkupCompile.cache
+D:\project\Projects\cool\cool\obj\Debug\cool.g.resources
+D:\project\Projects\cool\cool\obj\Debug\cool.Properties.Resources.resources
+D:\project\Projects\cool\cool\obj\Debug\cool.csproj.GenerateResource.Cache
